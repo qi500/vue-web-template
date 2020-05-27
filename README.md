@@ -3,7 +3,7 @@
 - - -
 
 
-##### 作者: 李运坤
+##### 作者: liyunkun
 ##### 邮箱: liyunkun_11@163.com
 ##### 描述: web项目模板
 
@@ -44,7 +44,7 @@
 - test 测试环境
 - production 正式环境
 
-环境新增直接在根目录下新建**.env.xxx**文件，然后在**package.json**文件里面配置
+环境新增直接在根目录下新建.env.xxx文件，然后在package.json文件里面配置
 
 ## 项目命令
 
